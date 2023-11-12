@@ -1,0 +1,67 @@
+body{
+    background: url(../1.jpg);
+    max-width: 100%;
+    height: auto;
+}
+.title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+.info{
+    height: 150px;
+    width: 1270px;
+    font-size: 50px;
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+.dangerous{
+    height: 150px;
+    width: 1270px;
+    font-size: 50px;
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+.info{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 3rem;
+}
+.text{
+    text-align: center;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+}
+.return{
+    height: 150px;
+    width: 200px;
+    font-size: 2rem;
+    cursor: pointer;
+    background: none;
+    color: #ffff;
+    border: none;
+}
+.why{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 3rem;
+}
+.whytext{
+    text-align: center;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+}
+.whybutton{
+    height: 150px;
+    width: 200px;
+    font-size: 2rem;
+    cursor: pointer;
+    background: none;
+    color: #ffff;
+    border: none;
+}
